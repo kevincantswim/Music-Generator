@@ -1,0 +1,81 @@
+body {
+  text-align: center;
+  background-color:#0bbd64;
+}
+
+h1 {
+  font-size: 5rem;
+  color: rgb(250, 250, 250);
+  font-family: "Garamond", cursive;
+  text-shadow: 3px 0 	#06611d;
+
+}
+
+footer {
+  color:	#ffffff;
+  font-family: sans-serif;
+}
+
+.w {
+   background-image: url("images/tom1.png");background-size:150%;
+}
+
+.a {
+  background-image: url("images/tom2.png");background-size:150%;
+}
+
+.s {
+  background-image: url("images/tom3.png");background-size:150%;
+}
+
+.d {
+  background-image: url("images/tom4.png");background-size:150%;
+}
+
+.j {
+  background-image: url("images/snare.png");background-size:150%;
+}
+
+.k {
+  background-image: url("images/crash.png");background-size:150%;
+}
+
+.l {
+  background-image: url("images/kick.png");background-size:150%;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.Trumpet {
+  outline: none;
+  border: 10px solid #0a690a;
+  font-size: 5rem;
+  font-family: 'Garamond', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #3ed310;
+  text-shadow: 3px 0 #081215;
+  border-radius: 10px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
